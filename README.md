@@ -1,6 +1,6 @@
 # Chatbot-Project
 Please find Original code here: https://data-flair.training/blogs/python-chatbot-project/
-installation:
+Installation:
 pip install tensorflow, keras, pickle, nltk
 Training:
 python train_chatbot.py
